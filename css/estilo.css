@@ -1,0 +1,43 @@
+body{
+  background-image: url("../imagenes/fondo.jpg");
+  background-repeat: repeat;
+  background-size: cover;
+  font-family: oswald;
+}
+
+#jumbo{
+  color: white;
+  border-radius: 2px;
+  background-color: rgba(0, 0, 0, 0.6);
+  text-align: justify;
+  position: relative;
+  margin: auto;
+}
+
+#jumbo h1{
+  text-shadow: 4px 2px #b95b5b
+}
+
+#cajahome{
+  color: white;
+  background-color: rgba(0, 0, 0,  0.6);
+  padding: 20px;
+}
+
+.foot{
+  position: absolute;
+  bottom: 0px;
+}
+
+#banner{
+  width: 100px;
+  height: 360px;
+  position: absolute;
+  float: right;
+  background-color: rgba(0, 0, 0,  0.6);
+  color: white;
+  border-radius: 2px;
+  padding: 5px;
+  margin-left: -10px;
+
+}
